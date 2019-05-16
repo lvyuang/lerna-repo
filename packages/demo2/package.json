@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "51e9218248c5c296f0d7ac347db5e52f49b5acb6"
+  "gitHead": "51e9218248c5c296f0d7ac347db5e52f49b5acb6",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "vue": "^2.6.10"
+  }
 }
